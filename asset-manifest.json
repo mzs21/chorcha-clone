@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/chorcha-clone/static/css/main.3cb5c3ea.css",
+    "main.js": "/chorcha-clone/static/js/main.1e359bc4.js",
+    "static/js/787.dbb5ed2a.chunk.js": "/chorcha-clone/static/js/787.dbb5ed2a.chunk.js",
+    "static/media/BooksAnimation.gif": "/chorcha-clone/static/media/BooksAnimation.20a0c6e72de27538557d.gif",
+    "service-worker.js": "/chorcha-clone/service-worker.js",
+    "static/media/chorcha-logo.png": "/chorcha-clone/static/media/chorcha-logo.2b618a1e5d5f0dfbc633.png",
+    "static/media/mocktest.png": "/chorcha-clone/static/media/mocktest.278761cf3c078e12ccc2.png",
+    "index.html": "/chorcha-clone/index.html",
+    "main.3cb5c3ea.css.map": "/chorcha-clone/static/css/main.3cb5c3ea.css.map",
+    "main.1e359bc4.js.map": "/chorcha-clone/static/js/main.1e359bc4.js.map",
+    "787.dbb5ed2a.chunk.js.map": "/chorcha-clone/static/js/787.dbb5ed2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cb5c3ea.css",
+    "static/js/main.1e359bc4.js"
+  ]
+}
